@@ -15,4 +15,4 @@ There is no display of HP because the only atribute of the player is length.
 Game includes a score counter!
 
 ## Example
-[.\nibbles-example.png]
+[.\Nibbles-example.png]
