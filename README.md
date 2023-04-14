@@ -12,6 +12,7 @@ To modify and debug, you have to follow several steps:
 ## Features
 This is a very simple implementation of the snake game so it doesn't have much to offer, gameplay starts after executing the code and ends when collision is detected.
 There is no display of HP because the only atribute of the player is length.
-Game includes a score counter!gdf
+Game includes a score counter!
 
 ## Example
+[.\nibbles-example.png]
